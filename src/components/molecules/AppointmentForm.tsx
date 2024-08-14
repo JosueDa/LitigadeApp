@@ -118,7 +118,7 @@ const AppointmentForm: React.FC = () => {
             required
           />
         </div>
-        <div className='pt-6'>
+        <div className='pt-6 text-center lg:text-left'>
           <button
             type="submit"
             className="text-white bg-[#784F33] hover:bg-[#5C3A26] focus:outline-none focus:ring-4 focus:ring-[#AC8268] rounded-md px-12 py-4 text-center mb-2"

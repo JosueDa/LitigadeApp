@@ -13,7 +13,7 @@ const Home = () => {
           <h4 className="text-[20px] leading-[30px] text-[#737373] mb-6 md:text-left text-center">
             We know how large objects will act, but things on a small scale.
           </h4>
-          <div className="flex flex-col md:flex-row items-center justify-center gap-4">
+          <div className="flex flex-col md:flex-row items-center gap-4 m-auto">
             <button type="button" className="text-white bg-[#784F33] hover:bg-[#5C3A26] focus:outline-none focus:ring-4 focus:ring-[#AC8268] font-medium rounded-full px-5 py-3 text-center mb-2">
               Get Quote Now
             </button>

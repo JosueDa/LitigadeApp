@@ -6,10 +6,10 @@ const ContactUs = () => {
       <div className="container mx-auto px-4 md:px-32 py-12">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
-            <h3 className="text-3xl font-medium pb-2 font-serif">
+            <h3 className="text-3xl font-medium pb-2 font-serif text-center lg:text-left">
               Request A Free Consultation
             </h3>
-            <p className="text-gray-600 text-lg mx-auto max-w-prose">
+            <p className="text-gray-600 text-lg mx-auto max-w-prose text-center lg:text-left">
               The quick fox jumps over the lazy dog
             </p>
           </div>

@@ -7,10 +7,10 @@ const MeetOurAttorneys = () => {
     <section className='bg-white py-12'>
         <div className='container mx-auto pt-20'>
             <div className='text-center'>
-                <h2 className='text-5xl mb-6 font-serif'>
+                <h2 className='text-5xl mb-6 font-serif text-center'>
                 Meet Our Attorneys
                 </h2>
-                <p className='text-gray-600 text-lg mx-auto max-w-prose'>
+                <p className='text-gray-600 text-lg mx-auto max-w-prose text-center lg:text-left p-2'>
                 Problems trying to resolve the conflict between the two major realms of Classical physics: Newtonian mechanics 
                 </p>
             </div>

@@ -5,7 +5,7 @@ const WhatClientSay = () => {
 
   return (
     <section className='bg-gray-200 py-12'>
-        <div className='container mx-auto pt-20'>
+        <div className='container mx-auto pt-20 p-2'>
             <div className='text-center'>
                 <h2 className='text-5xl mb-6 font-serif'>
                 What Clients Say
