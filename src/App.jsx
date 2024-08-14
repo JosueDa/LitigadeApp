@@ -13,7 +13,7 @@ import Footer from './components/sections/Footer'
 function App() {
 
   return (
-    <div>
+    <div >
       <div className='bg-home bg-no-repeat bg-cover'>
         <Navbar />
         <Home />

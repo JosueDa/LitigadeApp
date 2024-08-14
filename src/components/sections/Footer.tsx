@@ -113,8 +113,8 @@ const Footer = () => {
         </div>
       </div>
       <div className="bg-custom-gradient text-white py-4">
-        <div className='w-full max-w-screen-xl py-4 ml-5 sm:mx-auto'>
-        <p className="font-semibold">Made With Love By Figmaland All Rights Reserved</p>
+        <div className='w-full max-w-screen-xl mx-auto p-2 md:py-8'>
+        <p className="font-semibold ">Made With Love By Figmaland All Rights Reserved</p>
         </div>
       </div>
     </footer>

@@ -5,7 +5,7 @@ const MakeAnAppointment = () => {
   return (
     <section className="bg-home4 bg-no-repeat bg-cover">
       <div className='container mx-auto'>
-        <div className='p-32'>
+        <div className='p-10 lg:p-32'>
           <h2 className='text-2xl font-medium font-serif'>
             Contact Us
           </h2>
