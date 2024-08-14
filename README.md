@@ -2,7 +2,7 @@
 
 ## **Descripción**
 
-**MyAppointmentApp** es una aplicación web construida con **React**, **Vite** y **TailwindCSS**. La aplicación permite a los usuarios reservar citas de manera intuitiva. 
+**MyAppointmentApp** es una aplicación web construida con **React**, **Vite** y **TailwindCSS**. La aplicación permite a los usuarios reservar citas de manera intuitiva. Si deseas ver la aplicación desplegada, puedes hacerlo en el siguiente enlace: https://litigade-app.vercel.app/
 
 ## **Características**
 
