@@ -8,7 +8,7 @@ const WhoWeAre = () => {
         <h2 className='text-5xl mb-6 font-serif'>
           Who We Are
         </h2>
-        <p className='text-gray-600 text-lg mx-auto max-w-prose'>
+        <p className='text-gray-600 text-lg mx-auto max-w-prose pb-8 lg:pb-2'>
           Problems trying to resolve the conflict between the two major realms of Classical physics: Newtonian mechanics
         </p>
       </div>
