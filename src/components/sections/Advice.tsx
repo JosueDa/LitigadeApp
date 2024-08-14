@@ -1,7 +1,7 @@
 import React from 'react';
 import AdviceCard from '../molecules/AdviceCard';
 import Weight from '../../assets/Weight';
-import Hammer from '../../assets/hammer';
+import Hammer from '../../assets/Hammer';
 import List from '../../assets/List'
 
 const Advice = () => {
